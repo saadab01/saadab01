@@ -107,12 +107,12 @@ motto       = "trust logs, not vibes"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0517&title_color=c77dff&icon_color=9d4edd&text_color=e0c3fc&ring_color=c77dff&border_radius=12" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0517&title_color=c77dff&text_color=e0c3fc&border_radius=12" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=saadab01&show_icons=true&hide_border=true&bg_color=0d0517&title_color=c77dff&icon_color=9d4edd&text_color=e0c3fc&ring_color=c77dff&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?saadab01&layout=compact&hide_border=true&bg_color=0d0517&title_color=c77dff&text_color=e0c3fc&border_radius=12" alt="Top languages"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0517&stroke=9d4edd&ring=c77dff&fire=ff6ad5&currStreakLabel=e0c3fc&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&border_radius=12" alt="Streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadab01&theme=dark&hide_border=true&background=0d0517&stroke=9d4edd&ring=c77dff&fire=ff6ad5&currStreakLabel=e0c3fc&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&border_radius=12" alt="Streak stats"/>
 
 <br/><br/>
 
