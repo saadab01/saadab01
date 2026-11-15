@@ -109,15 +109,7 @@ motto       = "trust logs, not vibes"
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadab01&theme=dark&hide_border=true&background=0d0517&stroke=9d4edd&ring=c77dff&fire=ff6ad5&currStreakLabel=e0c3fc&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&border_radius=12" alt="Streak stats"/>
 
-<br/><br/>
 
-</div>
-
-<br/>
-
-<br/><br/>
-
-</div>
 
 <br/>
 <!-- Snake: needs .github/workflows/snake.yml to run once (Actions tab > Generate Snake > Run workflow) -->
