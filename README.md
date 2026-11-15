@@ -112,7 +112,7 @@ motto       = "trust logs, not vibes"
 
 
 <br/>
-<!-- Snake: needs .github/workflows/snake.yml to run once (Actions tab > Generate Snake > Run workflow) -->
+
 <img src="https://raw.githubusercontent.com/saadab01/saadab01/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <br/>
