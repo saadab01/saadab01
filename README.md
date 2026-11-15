@@ -8,7 +8,11 @@
 <p align="center">
   <img src="./banner.svg.svg"
        alt="SAAD | Security Operations Center"
-       width="100%" />
+    <p align="center">
+  <img src="./banner.svg.svg"
+       width="100%"
+       alt="Saad SOC Banner"/>
+</p>   width="100%" />
 </p>
 
 <!-- ANIMATED TERMINAL INTRO -->
