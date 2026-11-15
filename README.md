@@ -1,190 +1,124 @@
-# 🟣 SAAD — SECURITY OPERATIONS
+
+<div align="center">
+
+<img src="banner.jfif" alt="Saad — SOC Analyst · Blue Team · CS Student" width="100%"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  <img src="./banner.svg.svg" width="100%" alt="Saad's SOC Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Saad+%F0%9F%91%8B;SOC+Analyst+in+the+making+%F0%9F%9B%A1%EF%B8%8F;CS+student+%7C+Threat+hunter+%7C+Log+nerd;Turning+alerts+into+answers" alt="typing animation"/>
 </p>
+
+I'm **Saad**, a Computer Science student who's drawn to the blue side of security. I like finding the needle in the haystack: reading logs, triaging alerts, and figuring out what an attacker actually did.
+
+- **Focus:** SOC operations, threat detection & incident response
+- **Learning now:** SIEM engineering, detection rules, MITRE ATT&CK mapping
+- **Building:** a home SOC lab (Wazuh + Elastic + Suricata)
+- **Goal:** land a Tier 1 SOC Analyst role, then grow into threat hunting
+- **Open to:** internships, junior SOC roles & collabs
+- **Ask me about:** log analysis, phishing triage, Python automation
+
+<br/>
+
+<h2 align="center">Tech Stack & Tools</h2>
+
+<div align="center">
+
+**Security**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=1a0533)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3EA8DC?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-9d4edd?style=for-the-badge&logoColor=white)
+
+**Dev & Systems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<h2 align="center">Languages and Activity</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0517&title_color=c77dff&icon_color=9d4edd&text_color=e0c3fc&ring_color=c77dff&border_radius=12" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d0517&title_color=c77dff&text_color=e0c3fc&border_radius=12" alt="Top languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0517&stroke=9d4edd&ring=c77dff&fire=ff6ad5&currStreakLabel=e0c3fc&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&border_radius=12" alt="Streak stats"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<h2 align="center">Security Journey</h2>
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Blue_Team-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![LetsDefend](https://img.shields.io/badge/LetsDefend-SOC_Analyst-2b2b6e?style=for-the-badge&logoColor=white)](https://app.letsdefend.io/)
+![Cert](https://img.shields.io/badge/Target-CompTIA_Security%2B_%7C_BTL1-c77dff?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<h2 align="center">Featured Projects</h2>
+
+| Project | What it does | Stack |
+|---|---|---|
+|**home-soc-lab** | Virtual SOC with log forwarding, dashboards & alerting | Wazuh, Elastic, Suricata |
+| **log-triage-toolkit** | Python scripts to parse & flag suspicious auth/web logs | Python, regex |
+| **phishing-analysis-notes** | Walkthroughs of email header & URL analysis | Markdown, VirusTotal |
+| **attack-detection-mapping** | Detection rules mapped to MITRE ATT&CK techniques | Sigma, YARA |
+
+> Rename these to match your real repos. Pin your best 4–6 on your profile.
+
+<br/>
+
+<h2 align="center">Contacts</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A970FF&center=true&vCenter=true&width=700&lines=U+ARE+SPECIAL.;STUDENT+%7C+SOC+ANALYST.;THREAT+DETECTION+%2F%2F+INCIDENT+RESPONSE.;DEFENDING+SYSTEMS.+ANALYZING+THREATS." alt="Typing SVG"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d6e6e" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/GMAIL-c77dff?style=flat-square&logo=gmail&logoColor=white&labelColor=5a189a" alt="Email"/></a>
+  <a href="https://twitter.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-SOC%20ANALYST-8A2BE2?style=for-the-badge&labelColor=090610"/>
-  <img src="https://img.shields.io/badge/TEAM-BLUE%20TEAM-176BFF?style=for-the-badge&labelColor=090610"/>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-A970FF?style=for-the-badge&labelColor=090610"/>
-</p>
+<div align="center">
 
----
+<img src="assets/platform.gif" alt="cyberpunk platform" width="100%"/>
 
-## `01 // OPERATOR PROFILE`
+<br/><br/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  OPERATOR       : SAAD                                        │
-│  CLASSIFICATION : CYBERSECURITY STUDENT                       │
-│  SPECIALIZATION : SECURITY OPERATIONS                         │
-│  TEAM           : BLUE TEAM                                   │
-│  FOCUS          : DETECTION / ANALYSIS / RESPONSE              │
-│  ENVIRONMENT    : SOC LABS / SECURITY OPERATIONS               │
-│  STATUS         : ACTIVE                                      │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="assets/you-are-special.gif" alt="you are special" width="60%"/>
 
-I'm a cybersecurity student focused on Security Operations Center (SOC) practices, threat detection, and defensive security.
+<br/>
 
-I enjoy investigating suspicious activity, analyzing security events, working with SIEM platforms, and understanding how attackers interact with systems and networks.
+<sub>`> stay curious. trust logs, not vibes.`</sub>
 
-My goal is to develop practical security skills through hands-on labs, investigation scenarios, and continuous experimentation with defensive technologies.
+<br/><br/>
 
-> **Think like an analyst. Investigate like a hunter. Defend like an operator.**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=9d4edd&style=for-the-badge" alt="Profile views"/>
 
----
-
-## `02 // SOC ARSENAL`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Splunk-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-176BFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SIEM-Elastic-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-176BFF?style=flat-square"/>
-</p>
-
-### Security monitoring & analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-5E5E5E?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-### Network security & traffic analysis
-
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zeek-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-176BFF?style=for-the-badge"/>
-</p>
-
-### Endpoint & operating systems
-
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Sysmon-176BFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
-
-### Scripting & automation
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## `03 // CORE OPERATIONS`
-
-| Domain | Focus |
-|:---|:---|
-| SIEM Operations | Log collection, event correlation, detection rules |
-| Alert Triage | Alert validation, prioritization, investigation |
-| Threat Detection | IOC analysis, suspicious behavior identification |
-| Incident Response | Investigation, containment concepts, documentation |
-| Network Analysis | Packet inspection, traffic monitoring, protocol analysis |
-| Endpoint Security | Event monitoring, endpoint telemetry, system investigation |
-| Threat Intelligence | IOC research, threat context, MITRE ATT&CK mapping |
-| Automation | Python, PowerShell and Bash scripting |
-
----
-
-## `04 // MISSION LOGS`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ARCHIVE-SECURITY%20LABS-8A2BE2?style=for-the-badge&labelColor=090610"/>
-  <img src="https://img.shields.io/badge/TYPE-HANDS--ON%20INVESTIGATIONS-176BFF?style=for-the-badge&labelColor=090610"/>
-</p>
-
-### 🔎 SOC Investigation Labs
-
-Hands-on exercises focused on security event analysis, alert investigation, and threat detection.
-
-**Planned repository structure:**
-
-```text
-SOC-Labs/
-│
-├── SIEM-Projects/
-│   ├── Log-Analysis/
-│   ├── Detection-Rules/
-│   └── Alert-Investigation/
-│
-├── Network-Security/
-│   ├── Packet-Analysis/
-│   └── Network-Monitoring/
-│
-├── Incident-Response/
-│   ├── Investigation-Reports/
-│   └── Incident-Scenarios/
-│
-└── Threat-Hunting/
-    ├── IOC-Analysis/
-    └── MITRE-ATTACK/
-```
-
-### Featured investigations
-
-| Project | Description | Repository |
-|:---|:---|:---:|
-| SIEM Log Analysis | Investigating security events and identifying anomalies | [View](https://github.com/YOUR_USERNAME) |
-| Network Traffic Analysis | Inspecting packets and identifying suspicious traffic | [View](https://github.com/YOUR_USERNAME) |
-| Incident Response Lab | Simulating and documenting security incidents | [View](https://github.com/YOUR_USERNAME) |
-
-*Replace these example entries with actual lab repositories as they are published.*
-
----
-
-## `05 // GITHUB TELEMETRY`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=090610&title_color=A970FF&icon_color=176BFF&text_color=FFFFFF&ring_color=A970FF" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=090610&title_color=A970FF&text_color=FFFFFF" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&background=090610&ring=A970FF&fire=176BFF&currStreakLabel=A970FF&sideLabels=FFFFFF&dates=888888" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=090610&color=A970FF&line=176BFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph"/>
-</p>
-
----
-
-## `06 // TRANSMISSION`
-
-<p align="center">
-  Interested in cybersecurity, SOC operations, threat detection, and defensive security.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-176BFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-A970FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090610,50:4B0082,100:176BFF&height=100&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <b>U ARE SPECIAL.</b><br/>
-  <sub>Stay curious. Stay alert. Keep defending.</sub>
-</p>
+</div>
