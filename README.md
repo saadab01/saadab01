@@ -111,8 +111,6 @@ motto       = "trust logs, not vibes"
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/saadab01/saadab01/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
-
 </div>
 
 <br/>
