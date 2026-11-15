@@ -1,6 +1,6 @@
 <!-- CUSTOM BANNER --><!-- GLOWING ROUNDED BANNER -->
 <p align="center">
-  <img src="./banner.svg" alt="Saad SOC Banner" width="100%" />
+  <img src="./banner.svg.svg" alt="./banner.jfif" width="100%" />
 </p>
 
 <!-- ANIMATED TYPING INTRODUCTION -->
