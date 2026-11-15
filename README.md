@@ -117,11 +117,11 @@ motto       = "trust logs, not vibes"
 <br/><br/>
 
 <!-- Snake: needs .github/workflows/snake.yml to run once (Actions tab > Generate Snake > Run workflow) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/saadab01/saadab01/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saadab01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
 
 </div>
 
