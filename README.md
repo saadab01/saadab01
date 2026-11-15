@@ -112,7 +112,6 @@ motto       = "trust logs, not vibes"
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadab01&theme=dark&hide_border=true&background=0d0517&stroke=9d4edd&ring=c77dff&fire=ff6ad5&currStreakLabel=e0c3fc&sideLabels=c77dff&currStreakNum=ffffff&sideNums=ffffff&dates=b39ddb&border_radius=12" alt="Streak stats"/>
 
 <br/><br/>
 
@@ -120,8 +119,6 @@ motto       = "trust logs, not vibes"
 <img src="https://raw.githubusercontent.com/saadab01/saadab01/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saadab01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Trophies"/>
 
 </div>
 
